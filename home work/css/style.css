@@ -88,11 +88,9 @@ body {
 
 .slider {
     margin: 0 auto;
-
 }
 
 .carousel {
-    /*margin-top: -75px;*/
     width: 100%;
     height: 800px;
     padding: 0;
